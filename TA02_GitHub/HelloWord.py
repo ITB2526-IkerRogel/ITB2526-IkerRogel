@@ -1,4 +1,4 @@
 print("Hola Món ;-)")
 nota = float(input("Nota?"))
-notaNova= nota *19
+notaNova= nota *2
 print(notaNova)
